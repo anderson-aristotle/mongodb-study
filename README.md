@@ -4,8 +4,8 @@
 
 ## Prerequisites
 
--   [node-api](https://github.com/ga-wdi-boston/node-api)
--   [sql-nosql-discussion](https://github.com/ga-wdi-boston/sql-nosql-discussion)
+-   [node-api](https://git.generalassemb.ly/ga-wdi-boston/node-api)
+-   [sql-nosql-discussion](https://git.generalassemb.ly/ga-wdi-boston/sql-nosql-discussion)
 
 ## Objectives
 
