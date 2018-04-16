@@ -11,16 +11,20 @@ material. Instead, digest what you've read and repeat it in your own voice.
 ## Required Readings
 
 - [Getting Started with MongoDB](https://docs.mongodb.org/getting-started/shell/)
-- [Mongo DB Is Web Scale](https://www.youtube.com/watch?v=b2F-DItXtZs) (watch full video)
-- [CodeSchool MongoDB](https://www.codeschool.com/courses/the-magical-marvels-of-mongodb) (Level 1)
+- [Mongo DB Is Web Scale](https://www.youtube.com/watch?v=b2F-DItXtZs)
+  (watch full video)
+- [CodeSchool MongoDB](https://www.codeschool.com/courses/the-magical-marvels-of-mongodb)
+  (Level 1)
 
-## Installation:
+## Installation
+
 Install Mongodb by running `brew install mongodb` then to make sure you are up
 to date run `brew update` then `brew upgrade mongo`.
 
-**On Ubuntu**
+#### On Ubuntu
 
-Follow the instructions [here](https://docs.mongodb.com/v3.2/tutorial/install-mongodb-on-ubuntu/) carefully.
+Follow the instructions [here](https://docs.mongodb.com/v3.2/tutorial/install-mongodb-on-ubuntu/)
+carefully.
 
 ## Advantages of MongoDB
 
