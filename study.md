@@ -35,7 +35,7 @@ In your own words, what are some disadvantages of a NoSQL database?
 ## Popularity
 
 Why is MongoDB so popular?  Explain why popularity should not be the only factor
-when choosing a technology
+when choosing a technology.
 
 ```md
 <!-- your answer here -->
