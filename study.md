@@ -1,4 +1,4 @@
-# mongodb Study
+# MongoDB Study
 
 Use your favorite search engine and the provided readings to research and
 respond to the following questions.
@@ -11,16 +11,10 @@ material. Instead, digest what you've read and repeat it in your own voice.
 ## Required Readings
 
 - [Getting Started with MongoDB](https://docs.mongodb.org/getting-started/shell/)
-- [Mongo DB Is Web Scale](https://www.youtube.com/watch?v=b2F-DItXtZs) (watch full video)
-- [CodeSchool MongoDB](https://www.codeschool.com/courses/the-magical-marvels-of-mongodb) (Level 1)
-
-## Installation:
-Install Mongodb by running `brew install mongodb` then to make sure you are up
-to date run `brew update` then `brew upgrade mongo`.
-
-**On Ubuntu**
-
-Follow the instructions [here](https://docs.mongodb.com/v3.2/tutorial/install-mongodb-on-ubuntu/) carefully.
+- [Mongo DB Is Web Scale](https://www.youtube.com/watch?v=b2F-DItXtZs)
+  (watch full video)
+- [CodeSchool MongoDB](https://www.codeschool.com/courses/the-magical-marvels-of-mongodb)
+  (Level 1)
 
 ## Advantages of MongoDB
 
@@ -41,7 +35,7 @@ In your own words, what are some disadvantages of a NoSQL database?
 ## Popularity
 
 Why is MongoDB so popular?  Explain why popularity should not be the only factor
-when choosing a technology
+when choosing a technology.
 
 ```md
 <!-- your answer here -->
