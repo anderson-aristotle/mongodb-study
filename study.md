@@ -13,8 +13,6 @@ material. Instead, digest what you've read and repeat it in your own voice.
 - [Getting Started with MongoDB](https://docs.mongodb.org/getting-started/shell/)
 - [Mongo DB Is Web Scale](https://www.youtube.com/watch?v=b2F-DItXtZs)
   (watch full video)
-- [CodeSchool MongoDB](https://www.codeschool.com/courses/the-magical-marvels-of-mongodb)
-  (Level 1)
 
 ## Advantages of MongoDB
 
