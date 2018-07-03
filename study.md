@@ -11,10 +11,8 @@ material. Instead, digest what you've read and repeat it in your own voice.
 ## Required Readings
 
 - [Getting Started with MongoDB](https://docs.mongodb.org/getting-started/shell/)
-- [Mongo DB Is Web Scale](https://www.youtube.com/watch?v=b2F-DItXtZs)
-  (watch full video)
-- [CodeSchool MongoDB](https://www.codeschool.com/courses/the-magical-marvels-of-mongodb)
-  (Level 1)
+- [Introduction To MongoDB](https://www.guru99.com/mongodb-tutorials.html#1) (just this first page)
+- [Mongo DB Is Web Scale](https://www.youtube.com/watch?v=b2F-DItXtZs) (watch full video)
 
 ## Advantages of MongoDB
 
