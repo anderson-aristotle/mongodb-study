@@ -18,7 +18,9 @@ material. Instead, digest what you've read and repeat it in your own voice.
 In your own words, what are some advantages of a NoSQL database?
 
 ```md
-<!-- your answer here -->
+<!-- Object-oriented programming that is flexible and easy to access
+agile environment, easy schema iteration
+large data volumne can be change on the fly, semi-unstructured and structured data -->
 ```
 
 ## Disadvantages of MongoDB
@@ -26,7 +28,8 @@ In your own words, what are some advantages of a NoSQL database?
 In your own words, what are some disadvantages of a NoSQL database?
 
 ```md
-<!-- your answer here -->
+<!-- NoSQL db needs community support
+SQL db are better for huge data transaction types -->
 ```
 
 ## Popularity
@@ -35,5 +38,6 @@ Why is MongoDB so popular?  Explain why popularity should not be the only factor
 when choosing a technology.
 
 ```md
-<!-- your answer here -->
+<!-- MongoDB is popular because it is scalable and is supported by the development
+community. Community support is not the only reason someone should use a program. -->
 ```
